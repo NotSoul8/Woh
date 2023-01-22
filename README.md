@@ -46,4 +46,4 @@ My Bot is open source and free to use. If you found any of my repos useful and w
 
 [![Discord Link](https://cdn.discordapp.com/attachments/1049058809538162710/1066756795537821746/62a07b53139aec4c1fd07771_discord-logo.png)](https://discord.gg/FGQPgPaNKr)
 
-[![Insta Link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maybe.itskritagya/)
+[![Insta Link](https://cdn.discordapp.com/attachments/1049058809538162710/1066757570724909106/Instagram-users-irked-with-the-new-update.jpg)](https://www.instagram.com/maybe.itskritagya/)
