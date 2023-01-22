@@ -13,8 +13,8 @@ Woh is the only bot that you need in your discord server, it comes with many fea
 
 1. Start cloning the repository and installing the dependencies.
 ```bash
-git clone https://github.com/gokiimax/EVE-Bot.git
-cd EVE-Bot
+git clone https://github.com/NotSoul8/Woh.git
+cd Woh-Bot
 npm install
 ```
 2. Make sure you installed [ffmpeg](https://ffmpeg.org/) (for the music system)
