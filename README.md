@@ -2,7 +2,7 @@
 
 # WOH-Bot
 Woh is the only bot that you need in your discord server, it comes with many features such as a Giveaway System, Music System and much more
-- Released: 15.08.2022
+- Released: 22.01.2023
 - [💌 Invite the bot](https://discord.com/api/oauth2/authorize?client_id=1009480009821474936&permissions=8&scope=bot%20applications.commands)
 <p align="center">
 	<a href="https://discord.gg/FGQPgPaNKr">
