@@ -1,0 +1,12 @@
+{
+    "color": "#34a6ef",
+    "developerGuild": "1005839839838621757",
+    "database":
+  "mongodb+srv://notsoul8:trvKjUywjjoWtNPR@cluster0.g78tlou.mongodb.net/?retryWrites=true&w=majority",
+    "supportServer": "https://discord.gg/FGQPgPaNKr",
+    "activityInterval": 5,
+    "activities": [
+        "/invite | Watching {servercount} Server",
+        "Created by NotSoul8#7057"
+    ]
+}

@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.2.0",
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.11.0",
+    "@distube/soundcloud": "^1.2.1",
+    "@distube/spotify": "^1.3.2",
+    "@iamtraction/google-translate": "^1.1.2",
+    "ascii-table": "^0.0.9",
+    "captcha-canvas": "^3.2.1",
+    "discord-giveaways": "^6.0.1",
+    "discord-tictactoe": "^3.0.0",
+    "discord-together": "^1.3.3",
+    "discord.js": "^14.2.0",
+    "distube": "^4.0.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "ffmpeg-static": "^4.4.1",
+    "libsodium-wrappers": "^0.7.10",
+    "mongoose": "^6.5.2",
+    "ms": "^2.1.3",
+    "nodemon": "^2.0.19",
+    "random-puppy": "^1.1.0",
+    "request-promise-native": "^1.0.9",
+    "yt-search": "^2.10.3",
+    "ytdl-core": "^4.11.0"
+  },
+  "name": "kiwiz",
+  "version": "1.0.0",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "![](https://images.hdqwalls.com/wallpapers/wall-e-eve-minimal-4k-je.jpg)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokiimax/EVE-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gokiimax/EVE-Bot/issues"
+  },
+  "homepage": "https://github.com/gokiimax/EVE-Bot#readme",
+  "devDependencies": {
+    "node": "^16.17.0"
+  }
+}
