@@ -44,5 +44,6 @@ My Bot is open source and free to use. If you found any of my repos useful and w
 
 ### 🔗 bc1qvchfpnjgwwgm7hel5sd70t7v4c4n89c3z7dyd7
 
-[![Discord Link](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://discord.gg/FGQPgPaNKr)
+[![Discord Link](https://cdn.discordapp.com/attachments/1049058809538162710/1066756795537821746/62a07b53139aec4c1fd07771_discord-logo.png)](https://discord.gg/FGQPgPaNKr)
+
 [![Insta Link](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maybe.itskritagya/)
